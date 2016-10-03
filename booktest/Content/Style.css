@@ -1,0 +1,11 @@
+﻿.field-validation-error{color:#f00;}
+
+.field-validation-valid{display: none;}
+
+.field-validation-error{border: 1px solid #foo; background-color: #fee;}
+
+.field-validation-error{font-weight: bold; color:#f00;}
+
+.field-validation-valid{display:none;}
+
+.checkBoxes{width: 10px;}
